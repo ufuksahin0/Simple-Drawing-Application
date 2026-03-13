@@ -44,9 +44,9 @@ Event handling is central to the application's interactivity:
 
 This separation of concerns makes the code more organized, easier to debug, and maintain.
 
-## Optional Features Implemented
+## Features Implemented
 
-For bonus points, the following optional features were added to the project:
+The following features were added to the project:
 
 - **Shape Filling:** A "Filled" checkbox has been added to the control panel. When selected, `Rectangle` and `Oval` shapes will be drawn with a solid color instead of just an outline.
 - **Undo Last Shape:** An "Undo" button has been added. Clicking it removes the most recently drawn shape from the canvas.
